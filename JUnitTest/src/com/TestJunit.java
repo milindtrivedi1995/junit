@@ -19,7 +19,7 @@ public class TestJunit {
    }
    
    @Test
-   public void testMilindMessage() {	  
+   public void testMilinddMessage() {	  
       assertEquals("Milind",messageUtil.printMessage());
    }
 }
